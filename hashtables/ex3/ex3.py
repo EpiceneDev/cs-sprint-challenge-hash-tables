@@ -2,7 +2,10 @@ def intersection(arrays):
     """
     YOUR CODE HERE
     """
-    # Your code here
+    result = {}
+    # break list into seperate lists
+    newA = arrays.flatten()
+    print(newA)
 
     return result
 
